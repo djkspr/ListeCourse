@@ -1,0 +1,22 @@
+{
+  "Productlist":
+  [{"name": "lait", 
+    "store": "Krogger"
+  },
+  {"name": "viande", 
+    "store": "Krogger"
+  },
+   {"name": "savon", 
+    "store": "Krogger"
+  },
+   {"name": "fruit", 
+    "store": "Krogger"
+  },
+   {"name": "legumes", 
+    "store": "Krogger"
+  },
+   {"name": "pain", 
+    "store": "wallmart"
+  }
+  ]
+}
